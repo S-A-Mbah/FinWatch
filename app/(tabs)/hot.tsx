@@ -118,6 +118,7 @@ const styles = StyleSheet.create({
     width: '48%', // 2 columns on mobile, 3-4 on larger screens
     minWidth: 270,
     maxWidth: 370, // Maximum width to prevent cards from getting too wide
+    maxHeight: 170,
     marginBottom: 12,
   },
   footer: {
